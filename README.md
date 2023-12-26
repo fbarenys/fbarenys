@@ -1,1 +1,1 @@
-👋 Hi, I’m Fèlix Barenys and I'm an Applied Statistics student at UAB in Barcelona. My interests encompass mainly Data Science and all its applications. I believe that AI can help to make a fairer, more natural world.
+👋 Hi, I’m Fèlix Barenys and I'm a Statistics graduate at UAB in Barcelona. My interests encompass mainly Data Science and all its applications. I believe that AI can help to make a fairer, more natural world.
